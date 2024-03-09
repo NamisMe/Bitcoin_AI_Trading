@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "bitcoin-ai-trading"
+version = "0.1.0"
+description = "bitcoin_gpt_ai_trading"
+authors = ["NamisMe <nam_ing@kakao.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "*"
+openai = "*"
+pyupbit = "*"
+pandas = "*"
+pandas_ta = "*"
+schedule = "*"
+pyjwt = "^2.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
