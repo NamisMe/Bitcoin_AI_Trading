@@ -1,9 +1,8 @@
 # 비트코인 GPT 인공지능 AI 업비트 자동매매 시스템 만들기
 - AI API를 이용하여 투자를 자동화 합니다.
+
 ## 관련 링크
 - [수업 자료](https://jocoding.net/bitcoin)
-- [라이브 풀버전 링크](https://youtube.com/live/-7IVgjUw79s?feature=share)
-- 편집본 (업데이트 예정)
 
 ## 로컬 환경 설정
 ```
